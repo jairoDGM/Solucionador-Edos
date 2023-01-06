@@ -1,0 +1,15 @@
+Lenguaje: Java(Netbeens)
+
+Si se abre en Linux descargar el archivo y poner en terminal:
+
+java -jar "/home/student/Desktop/JavaApplication1/dist/JavaApplication1.jar"
+
+
+Si se abre en Windows dirigirse a la carpeta dist y darle click a al archivo JavaAplication1.Jar y se les abrira el ejecutable
+
+librerias se les dejaran adjuntas en la carpeta
+
+
+Hecho por:
+Jairo Garcia: 20002864
+Abel Alvarez: 20002301
